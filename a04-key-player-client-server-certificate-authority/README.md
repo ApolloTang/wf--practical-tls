@@ -20,9 +20,9 @@
 
 ## Certificate Authority
 
-- Coverning entity that issues certificates
+- Governing entity that issues certificates
 
-- client and server don't trust each other, but they both trust cerficate authority.
+- Client and server don't trust each other, but they both trust the cerficate authority.
 
 ### Five main Cerfificate Authority:
 
