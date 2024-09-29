@@ -22,7 +22,7 @@
 
 - Governing entity that issues certificates
 
-- The client and server don't trust each other but trust the certificate authority.
+- The client and server don't trust each other, but they trust the certificate authority. They trust the CA because it is the **Trust Anchor** (we trust what the trust anchor trusts). 
 
 ### Five main Certificate Authority:
 
@@ -34,6 +34,6 @@
 
 
 
-The above secure 98% of the internet, link to state:
+The above secures 98% of the internet; you can see the link to the break down of statistics:
 
 http://w3techs.com/technologies/overview/ssl_certificate/all
