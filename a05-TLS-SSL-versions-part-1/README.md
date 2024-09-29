@@ -11,7 +11,9 @@ Case study Poodle attack [ [POODLE - Wikipedia](https://en.wikipedia.org/wiki/PO
 
 https://www.ssllabs.com/ssl-pulse/
 
-![tls-ssl-versions-and-oole-attack](./assets/tls-ssl-versions-and-oole-attack.png)
+![tls-ssl-versions-and-oole-attack](./assets/tls-ssl-versions-and-poodle-attack.png)
+
+
 
 Poodle vulnerability was announced publicly on October 14, 2014, To mitigate the POODLE attack, one approach is to completely disable SSL 3.0 on the client side and the server side.  As you can see use of SSL v3.0 is reduce drastically from previous month (light shade of red).
 
